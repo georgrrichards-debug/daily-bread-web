@@ -1,4 +1,3 @@
 {
-  "projectName": "daily-bread",
   "buildCommand": "npm run build"
 }
