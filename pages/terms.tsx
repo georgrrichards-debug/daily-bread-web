@@ -1,0 +1,32 @@
+export default function Terms() {
+  return (
+    <div style={{ maxWidth: "800px", margin: "0 auto", padding: "2rem", fontFamily: "system-ui" }}>
+      <h1>Terms of Service</h1>
+      <p><strong>Last Updated: March 16, 2026</strong></p>
+
+      <h2>1. Acceptance of Terms</h2>
+      <p>By using Daily Bread, you agree to these Terms of Service. If you do not agree, do not use the service.</p>
+
+      <h2>2. User Responsibilities</h2>
+      <p>You agree to:</p>
+      <ul>
+        <li>Use the service only for lawful purposes</li>
+        <li>Not harass, abuse, or harm other users</li>
+        <li>Maintain confidentiality of your account credentials</li>
+        <li>Not attempt to gain unauthorized access</li>
+      </ul>
+
+      <h2>3. Content Rights</h2>
+      <p>All content provided by Daily Bread (Scripture references, UI design, features) is owned by Daily Bread or licensed partners. You may not reproduce or distribute without permission.</p>
+
+      <h2>4. Limitation of Liability</h2>
+      <p>Daily Bread is provided "as is" without warranties. We are not liable for indirect, incidental, or consequential damages resulting from your use of the service.</p>
+
+      <h2>5. Changes to Terms</h2>
+      <p>We reserve the right to update these terms at any time. Continued use of the service constitutes acceptance of updated terms.</p>
+
+      <h2>6. Contact</h2>
+      <p>For questions about these terms, contact: support@dailybreadapp.com</p>
+    </div>
+  );
+}
